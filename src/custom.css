@@ -1,0 +1,75 @@
+/* custom.css */
+html {
+    scroll-behavior: smooth;
+}
+
+/* About Section */
+#Main {
+    background-color: #865d36;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+/* Projects Section */
+#Projects {
+    background-color: #865d36;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+/* Skills Section */
+#Skills {
+    background-color: #865d36;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+/* Experience Section */
+#Experience {
+    background-color: #865d36;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+/* Custom Accordion Styles */
+.Experience .accordion-item {
+    background-color: #a69080;
+    border: none;
+}
+
+.Experience .accordion-header {
+    background-color: #a69080;
+}
+
+.Experience .accordion-header button {
+    background-color: #a69080;
+}
+
+.Experience .accordion-body {
+    background-color: #a69080;
+    border-top: 1px solid #fff;
+}
+
+/* background color */
+body {
+    background-color: #ac8968;
+}
+
+/* Navbar and Footer colors */
+.navbar-dark {
+    background-color: #55493c !important;
+}
+
+ /* Footer */
+#Footer {
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Color References
+#55493c
+#93785b
+#865d36
+#a69080
+*/
