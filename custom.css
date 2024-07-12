@@ -1,0 +1,71 @@
+.custom-card {
+    background-color: #a69080;
+}
+
+.Skills {
+    background-color: #a69080;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.Skills .list-group-item {
+    background-color: #a69080;
+    border: none;
+}
+
+.Experience {
+    background-color: #a69080;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.Experience .accordion-item {
+    background-color: #a69080;
+    border: none;
+}
+
+.Experience .accordion-header {
+    background-color: #a69080;
+}
+
+.Experience .accordion-header:focus {
+    box-shadow: none;
+}
+
+.Experience .accordion-body {
+    background-color: #a69080;
+    border-top: 1px solid #fff;
+}
+
+/* About Section */
+.about-box {
+    background-color: #a69080;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#Main {
+    padding: 30px;
+    border-radius: 30px;
+}
+
+/* About Section */
+.about-box {
+    background-color: #a69080;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Skills Section */
+#Skills h2,
+#Experience h2,
+#Projects h2 {
+    background-color: #a69080;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#Main {
+    padding: 30px;
+    border-radius: 30px;
+}
